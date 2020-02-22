@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d0a71d88.chunk.css",
+    "main.js": "/static/js/main.226ab455.chunk.js",
+    "main.js.map": "/static/js/main.226ab455.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.17789696.js",
+    "runtime-main.js.map": "/static/js/runtime-main.17789696.js.map",
+    "static/js/2.0d66b893.chunk.js": "/static/js/2.0d66b893.chunk.js",
+    "static/js/2.0d66b893.chunk.js.map": "/static/js/2.0d66b893.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f8704a83bcd9d9f7d7af322879e274ac.js": "/precache-manifest.f8704a83bcd9d9f7d7af322879e274ac.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d0a71d88.chunk.css.map": "/static/css/main.d0a71d88.chunk.css.map",
+    "static/js/2.0d66b893.chunk.js.LICENSE.txt": "/static/js/2.0d66b893.chunk.js.LICENSE.txt",
+    "static/media/IM.jpeg": "/static/media/IM.e9204404.jpeg",
+    "static/media/LogoMe.png": "/static/media/LogoMe.218c887b.png",
+    "static/media/github.png": "/static/media/github.98e8d670.png",
+    "static/media/iconFront.png": "/static/media/iconFront.3c5066f5.png",
+    "static/media/iconFront2.png": "/static/media/iconFront2.d04f52bd.png",
+    "static/media/iconFront3.png": "/static/media/iconFront3.ab1d6e4c.png",
+    "static/media/instagram.png": "/static/media/instagram.5d436e66.png",
+    "static/media/jsIcon.png": "/static/media/jsIcon.7f746b92.png",
+    "static/media/reactIcon.png": "/static/media/reactIcon.3d873d67.png",
+    "static/media/reactIcon2.png": "/static/media/reactIcon2.5dd887f9.png",
+    "static/media/telegram.png": "/static/media/telegram.1221800c.png",
+    "static/media/toTop.png": "/static/media/toTop.a089d93a.png",
+    "static/media/whatsapp.png": "/static/media/whatsapp.4959ed2e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17789696.js",
+    "static/js/2.0d66b893.chunk.js",
+    "static/css/main.d0a71d88.chunk.css",
+    "static/js/main.226ab455.chunk.js"
+  ]
+}
